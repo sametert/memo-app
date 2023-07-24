@@ -2,7 +2,8 @@ import React from 'react'
 
 function User({data}) {
 
-    console.log('User component re-render');
+  console.log('User component re-render');
+
   return (
     <div>
       user 
